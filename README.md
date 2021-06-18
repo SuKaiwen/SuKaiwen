@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Kevin Su
-A Software Engineering Graduate from The University of Sydney.
+- 👋 Hi, I’m Kevin Su,
+a Software Engineering Honours Graduate from The University of Sydney.
