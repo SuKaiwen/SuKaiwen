@@ -5,8 +5,8 @@ a Software Engineering Honors Graduate from The University of Sydney. I love to 
 
 - 👯 I’m looking to utilise my skills in the real world!
 
-- ⚡ Hobbies: in my spare time I love to draw and play various video games!
+- ⚡ Hobbies: in my spare time I like to draw, hit the gym and play various video games!
 
-Check out my portfolio [here](https://kevin-web.s3-ap-southeast-2.amazonaws.com/build/index.html)!
+For a preview of various projects and more information, please check out my portfolio [here](https://kevin-web.s3-ap-southeast-2.amazonaws.com/build/index.html)!
 
 
