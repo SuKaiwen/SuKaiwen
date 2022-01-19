@@ -1,5 +1,5 @@
 👋 Hi, I’m Kevin Su,
-a Software Engineering Honors Graduate from The University of Sydney. I love to do front-end design and coding!
+I love to do front-end design and coding!
 
 - 🌱 I love to learn and I am always looking to improve myself!
 
